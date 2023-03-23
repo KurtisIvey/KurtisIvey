@@ -6,7 +6,8 @@
 
 I'm an over the road truck driver/instructor turned programmer. I have a passion for learning new things, honing my craft, and problem solving(not just LeetCode). I use my programming skills to build highly interactive and custom websites.
 
-Skills: NEXT.JS / REACT / JS / TypeScript /MongoDB/ Node / Express / HTML / CSS / Tailwind CSS / REST
+#### Skills:
+NEXT.JS / REACT / JS / TypeScript /MongoDB/ Node / Express / HTML / CSS / Tailwind CSS / REST
 
 - 🔭 I’m currently working on a full stack Facebook Clone. It utilizes TypeScript and React for the front end, and Node and Express for the backend 
 - 🌱 I’m currently learning Data structures and Algorithms, so I can pound out LeetCode problems, UI/UX advanced design theory, and TypeScript. 
