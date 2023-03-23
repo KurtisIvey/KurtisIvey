@@ -1,6 +1,8 @@
+![I am a Full Stack Web Developer](https://github.com/KurtisIvey/KurtisIvey/blob/main/banner.png)
 ### Hi there 👋, my name is Kurtis
 #### I am a Full Stack Web Developer
-![I am a Full Stack Web Developer](https://github.com/KurtisIvey/KurtisIvey/blob/main/banner.png)
+
+
 
 I'm an over the road truck driver/instructor turned programmer. I have a passion for learning new things, honing my craft, and problem solving(not just LeetCode). I use my programming skills to build highly interactive and custom websites.
 
