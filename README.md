@@ -17,10 +17,8 @@ Skills: NEXT.JS / REACT / JS / TypeScript /MongoDB/ Node / Express / HTML / CSS 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KurtisIvey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kurtisivey//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iv.coding.bjj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kurtisivey.github.io/portfolio.v2/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KurtisIvey)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurtisIvey)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KurtisIvey&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/KurtisIvey)  
+![Profile views](https://gpvc.arturio.dev/KurtisIvey)    
