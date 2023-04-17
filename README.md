@@ -15,7 +15,6 @@ I'm an over the road truck driver/instructor turned programmer. I have a passion
 - 🤔 I’m looking for help with improving my projects and getting that foot in the door. 
 - 💬 Ask me about Brazilian Jiu Jitsu or any of the projects that I've worked on. 
 - 📫 How to reach me: LinkedIn 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
 
 
