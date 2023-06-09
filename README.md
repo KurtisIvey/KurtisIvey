@@ -1,18 +1,13 @@
 ![I am a Full Stack Web Developer](https://github.com/KurtisIvey/KurtisIvey/blob/main/banner.png)
 # Hi there 👋, my name is Kurtis
-### I am a Full Stack Web Developer
 
-
-
-I'm an over the road truck driver/instructor turned programmer. I have a passion for learning new things, honing my craft, and problem solving(not just LeetCode). I use my programming skills to build highly interactive and custom websites.
+I'm an experienced software developer proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. Witnessing the impact of technology in our interconnected world fueled my passion for coding & creating visually appealing, responsive, & user-friendly websites.
 
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind)](https://skills.thijs.gg)
 
 
-- 🔭 I’m currently working on a full stack Facebook Clone. It utilizes TypeScript and React for the front end, and Node and Express for the backend 
-- 🌱 I’m currently learning Data structures and Algorithms, so I can pound out LeetCode problems, UI/UX advanced design theory, and TypeScript. 
-- 🤔 I’m looking for help with improving my projects and getting that foot in the door. 
+
 - 💬 Ask me about Brazilian Jiu Jitsu or any of the projects that I've worked on. 
 - 📫 How to reach me: LinkedIn 
 - ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
