@@ -21,6 +21,8 @@
 <h1 align="center">Hi there 👋, my name is Kurtis</h1>
 
 <p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
+<br>
+
 
 <h2 align="center">Projects</h2>
 <table>
@@ -64,14 +66,48 @@
   </tr>
 </table>
 
-### Skills:
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind)](https://skills.thijs.gg)
+<h2 align="center">Skills</h2>
+<h3 align="center">Languages</h3>
+<p align="center">
+	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	<img alt="SQL" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
 
+<h3 align="center">Frameworks, Platforms, and Libraries</h3>
+<p align="center">
+	<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+	<img alt="Next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+	<img alt="jwt json web token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img alt="node js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img alt="Postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-- 💬 Ask me about Brazilian Jiu Jitsu or any of the projects that I've worked on. 
-- 📫 How to reach me: LinkedIn 
-- ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
+<h3 align="center">Hosting</h3>
+<p align="center">
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+</p>
+
 
 
 ## 📊 Github stats
@@ -84,3 +120,8 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+- 💬 Ask me about Brazilian Jiu Jitsu or any of the projects that I've worked on. 
+- 📫 How to reach me: LinkedIn 
+- ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
+
