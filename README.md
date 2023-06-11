@@ -22,6 +22,46 @@
 
 <p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
 
+<h2 align="center">Projects</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Space Tourism!</h3>
+      <br />
+        <a target="_blank" href="https://github.com/KurtisIvey/space-tourism-nextjs">
+        <img src="https://github.com/KurtisIvey/space-tourism-nextjs/blob/main/src/previews/space-Tourism.gif" width="" alt="Space Tourism"/>
+        </a>
+      <br />
+        <p align="center">
+    <a href="https://github.com/KurtisIvey/space-tourism-nextjs" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    </a>
+    <a href="https://space-tourism-nextjs-uu85.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    </a>
+      </p>
+        <p align="center">Space Tourism is an interactive website that allows one to explore the different possible destinations should they decide to embark on an out of this world vacation. User's are able to explore the different destinations, the crew members, and the associated technologies that will be used in their space journey. Built using Next.js, TypeScript, React, and Sass. </p>
+    </td>
+  <td width="50%" valign="top">
+    <h3 align="center">Jiu Jitsu Connect</h3>
+    <br />
+      <a target="_blank" href="https://github.com/KurtisIvey/jiu-jitsu-connect-client">
+      <img src="https://github.com/KurtisIvey/jiu-jitsu-connect-client/blob/main/src/assets/preview/jiujitsuconnectLarge.gif" width="" alt="PokéDrafts"/>
+      </a>
+    <br />
+      <p align="center">
+        <a href="https://github.com/KurtisIvey/jiu-jitsu-connect-client" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://jiujitsu-connect.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+     </p>
+      <p align="center">Jiu Jitsu Connect is a social media website that lets Brazilian Jiu Jitsu practicioners register an account and connect amongst each other on their own private platform. User's are able to connect via friend requests, posting, commenting, and liking posts. This is a full stack application that utilizes multiple technolgies. Click the repo for more details 😎
+    </td>
+  </tr>
+</table>
+
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind)](https://skills.thijs.gg)
 
