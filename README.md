@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Hi there 👋, my name is Kurtis
+<h1 align="center">Hi there 👋, my name is Kurtis</h1>
 
 I'm an experienced software developer proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. Witnessing the impact of technology in our interconnected world fueled my passion for coding & creating visually appealing, responsive, & user-friendly websites.
 
