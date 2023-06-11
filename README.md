@@ -17,7 +17,8 @@
       <img src="https://img.shields.io/static/v1?label=|&message=LEETCODE&color=cdf998&style=plastic&logo=leetcode&logo-color=white"/>
   </a>
 </p>
-# Hi there 👋, my name is Kurtis
+
+Hi there 👋, my name is Kurtis
 
 I'm an experienced software developer proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. Witnessing the impact of technology in our interconnected world fueled my passion for coding & creating visually appealing, responsive, & user-friendly websites.
 
@@ -35,6 +36,5 @@ I'm an experienced software developer proficient in building front & back end ap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurtisIvey)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KurtisIvey&show_icons=true)  
 
 
