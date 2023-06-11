@@ -32,9 +32,4 @@ I'm an experienced software developer proficient in building front & back end ap
 - ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KurtisIvey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kurtisivey//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iv.coding.bjj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kurtisivey.github.io/portfolio.v2/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurtisIvey)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
