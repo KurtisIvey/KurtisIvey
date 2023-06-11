@@ -17,9 +17,10 @@
   </a>
 </p>
 
+
 <h1 align="center">Hi there 👋, my name is Kurtis</h1>
 
-I'm an experienced software developer proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. Witnessing the impact of technology in our interconnected world fueled my passion for coding & creating visually appealing, responsive, & user-friendly websites.
+<p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
 
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind)](https://skills.thijs.gg)
@@ -31,4 +32,13 @@ I'm an experienced software developer proficient in building front & back end ap
 - ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
 
 
+## 📊 Github stats
 
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/kurtisivey/github-readme-stats"><img alt="Kurtis' Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KurtisIvey&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/kurtisIvey/github-readme-stats"><img alt="Kurtis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtisIvey&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
