@@ -18,11 +18,14 @@
   <a href="https://leetcode.com/KurtisIvey/" target="_blank">
     <img src="https://img.shields.io/badge/leetcode-b9e0a2?&style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
+  <a href="mailto:kurtiveycodes@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-b9e0a2?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+   </a>
 </p>
 
 <br>
 
-<h1 align="center">Hi there 👋, my name is Kurtis</h1>
+<h1 align="center">Hi there 👋, my name is Kurtis 💻🥋 </h1>
 
 <p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
 <br>
@@ -74,23 +77,24 @@
 <h2 align="center">Skills</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-	<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-	<img alt="SQL" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
 <h3 align="center">Frameworks, Platforms, and Libraries</h3>
 <p align="center">
-	<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-	<img alt="Next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-	<img alt="jwt json web token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img alt="jwt json web token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img alt="node js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
@@ -107,10 +111,24 @@
 <p align="center">
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
+</p>
+
+<h3 align="center">Tools I use</h3>
+<p align="center">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
 
@@ -122,10 +140,13 @@
   <a href="https://github.com/kurtisivey/github-readme-stats"><img alt="Kurtis' Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KurtisIvey&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/kurtisIvey/github-readme-stats"><img alt="Kurtis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtisIvey&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </p>
 
-- 💬 Ask me about Brazilian Jiu Jitsu or any of the projects that I've worked on. 
-- 📫 How to reach me: LinkedIn 
-- ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times, so I'm a pro at sitting on my butt. I also teach Brazilian Jiu Jitsu. 
+<br>
+<div>
+<p>- 💬 Ask me about Brazilian Jiu Jitsu 🥋 , my dog Stella 🐕 , or any of the projects that I've worked on</p>
+<p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/kurtisivey/" target="_blank">LinkedIn</a>,<a href="https://www.instagram.com/iv.coding.bjj/" target="_blank"> Instagram</a>, or <a href="mailto:kurtiveycodes@gmail.com">Email</a></p>
+<p>- ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times 🚚, so I'm a pro at sitting on my butt.</p>
+</div>
 
