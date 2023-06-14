@@ -39,7 +39,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="20"> Skills</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="20"> Projects</h2></summary>
   </ul>
 </div>
 
