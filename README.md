@@ -1,6 +1,6 @@
 ![I am a Full Stack Web Developer](https://github.com/KurtisIvey/KurtisIvey/blob/main/linkedinbanner.jpeg)
 <p align="center">
-  <a href="https://kurtisivey.github.io/portfolio.v2/" target="_blank">
+  <a href="https://kurtisivey-portfolio-ec1b4b13d7d8.herokuapp.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-678666?&style=for-the-badge&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kurtisivey/" target="_blank">
