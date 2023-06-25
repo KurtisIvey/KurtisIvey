@@ -28,7 +28,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Kurtis 💻🥋</h1></summary>
-    <img align="center" src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
+    <img src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
   </ul>
   
 </div>
