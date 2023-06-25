@@ -28,13 +28,14 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Kurtis 💻🥋</h1></summary>
-    <img src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
   </ul>
   
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align="center"> 
+  <img src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
+</div>
 <p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
 <br>
 
