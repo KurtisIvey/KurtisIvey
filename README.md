@@ -33,9 +33,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center"> 
-  <img src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
-</div>
+
 <p align="center"><em>Experienced Software Developer</em> proficient in building front & back end apps. Through colloborative efforts with local & remote teams, I've contributed to the development of cutting-edge, industry-standard applications. The impact of technology in our interconnected world fueled my passion for coding & creating <em>visually appealing, responsive, & user-friendly websites</em>.</p>
 <br>
 
@@ -155,6 +153,10 @@
   <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
+<div align="center"> 
+  <br>
+  <img src="https://www.codewars.com/users/KurtisIvey/badges/large" alt="code wars badge for kurtis ivey"/>
+</div>
 
 
 
