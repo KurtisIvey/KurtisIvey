@@ -28,8 +28,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Kurtis 💻🥋</h1></summary>
+    <img align="center" src="https://profile-counter.glitch.me/{KurtisIvey}/count.svg"/>
   </ul>
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -227,5 +227,5 @@
 <p>- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="25">Connect with me on: <a href="https://www.linkedin.com/in/kurtisivey/" target="_blank">LinkedIn</a>,<a href="https://www.instagram.com/iv.coding.bjj/" target="_blank"> Instagram</a>, or <a href="mailto:kurtiveycodes@gmail.com">Email</a></p>
 <p>- ⚡ Fun fact: I have driven the distance equivalent to having drove around the world 28 times 🚚, so I'm a pro at sitting on my butt.</p>
 </div>
-![Visitor Count](https://profile-counter.glitch.me/{KurtisIvey}/count.svg)
+
 
